@@ -1,4 +1,4 @@
-![ IMAGEM ILUSTRATIVA ](https://github.com/darneees/Miau/assets/79709843/c02c553a-c64f-432b-bdcf-5ed885d0e376)
+![IMAGEM ILUSTRATIVA](https://github.com/darneees/Miau/assets/79709843/cc105e2d-4965-4751-855c-4ad2271b60f1)
 
 
 <h1>
