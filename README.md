@@ -1,5 +1,4 @@
-![IMAGEM ILUSTRATIVA](https://github.com/darneees/Miau/assets/79709843/cc105e2d-4965-4751-855c-4ad2271b60f1)
-
+![banner](https://github.com/darneees/Miau/assets/79709843/c7db6d87-b196-4c70-970d-bf11c358a79c)
 
 <h1>
   MIAW CARD :bulb:
