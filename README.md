@@ -17,7 +17,7 @@ https://boxicons.com
 
 ## :desktop_computer: Deployed
 
-https://darneees.github.io/Miaw/
+
 
 <h3 align="center">
   
