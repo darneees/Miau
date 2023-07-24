@@ -1,24 +1,24 @@
-![ IMAGEM ILUSTRATIVA ]()
+![ IMAGEM ILUSTRATIVA ](https://github.com/darneees/Miau/assets/79709843/c02c553a-c64f-432b-bdcf-5ed885d0e376)
 
 
-<h1 align="center">
-  MIAU 
+<h1>
+  MIAW CARD :bulb:
 </h1>
 
-## ✔️ Tecnologias utilizadas
+## ✔️ Tecnologias utilizadas:
 - ``HTML5``
 - ``CSS3``
 - ``SASS``
 
-## Imagem / Icones
+## :paperclip: Imagem / Icones:
 
 https://www.freepik.com/
 
 https://boxicons.com
 
-## Deployed
+## :desktop_computer: Deployed
 
-
+- 
 
 <h3 align="center">
   
