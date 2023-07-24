@@ -18,7 +18,7 @@ https://boxicons.com
 
 ## :desktop_computer: Deployed
 
-- 
+https://darneees.github.io/Miau/
 
 <h3 align="center">
   
